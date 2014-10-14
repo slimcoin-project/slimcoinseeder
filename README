@@ -1,7 +1,7 @@
-litecoin-seeder
+slimcoin-seeder
 ===============
 
-Litecoin-seeder is a crawler for the Litecoin network, which exposes a list
+Slimcoin-seeder is a crawler for the Slimcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
